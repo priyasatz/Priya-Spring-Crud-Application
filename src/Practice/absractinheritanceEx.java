@@ -2,7 +2,7 @@ package Practice;
 abstract class shapes{
 	public abstract void area();
 }
-
+//checking if Github works
 class square extends shapes {
 	int sides;
 	square (int sides){
